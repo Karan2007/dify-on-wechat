@@ -5,8 +5,6 @@
 
 额外对接了LLMOps平台 [Dify](https://github.com/langgenius/dify)，支持Dify智能助手模型，调用工具和知识库，支持Dify工作流。
 
-Dify接入微信生态的**详细教程**请查看文章 [**手摸手教你把 Dify 接入微信生态**](https://docs.dify.ai/v/zh-hans/learn-more/use-cases/dify-on-wechat)
-
 如果我的项目对您有帮助请点一个star吧~
 </div>
 
@@ -57,18 +55,6 @@ Dify接入微信生态的**详细教程**请查看文章 [**手摸手教你把 D
 - [ ] **钉钉** 待测试
 - [ ] **飞书** 待测试
 
-# 交流群
-
-欢迎加入 **🤖大模型/知识库/bot交流群**，不仅能及时**获取本项目版本更新**公告，还可以一起**交流AI相关知识**！
-
-<div align="center">
-
-|<img width="240" src="./docs/images/wechat_group_1.jpg">|<img width="240" src="./docs/images/wechat_group_2.jpg">|
-|:-:|:-:|
-|<img width="240" src="./docs/images/wechat.jpg">|<img width="240" src="./docs/images/supportme.jpg">|
-|添加我的微信拉你进交流群|开源不易，感谢打赏🎉|
-
-</div>
 
 # 最新功能
 
@@ -462,20 +448,3 @@ docker compose up -d           # 启动docker容器
 docker logs -f dify-on-wechat  # 查看二维码并登录
 ```
 
-# Contributors
-<a href="https://github.com/hanfangyuan4396/dify-on-wechat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hanfangyuan4396/dify-on-wechat" />
-</a>
-
-
-
-也请各位大佬多多提PR，我社畜打工人，精力实在有限~
-
-# 致谢
-
-感谢所有打赏的朋友。
-
-感谢 **NLP工程化** 知识星球对本项目的支持
-
-<img width="240" src="./docs/images/NLP工程化.png">
-(提供Dify源码剖析及答疑，Dify对话系统源码等)
